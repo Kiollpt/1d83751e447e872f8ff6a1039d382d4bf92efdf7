@@ -1,10 +1,11 @@
 
 ## TODO
-* Spark app for batch
-* Kibana displays street level
-* Handle HDFS if samll size
-* Optimize code
-* Use scala spark instead pyspark
+* [x] Spark app for batch
+* [] Kibana displays street level
+* [] Handle HDFS if samll size
+* [] Optimize code
+* [x] Use scala spark
+
 
 ## Requirement
 * Kafka (Host on AWS EC2)
